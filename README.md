@@ -1,1 +1,1 @@
-# SummerSchoolProjects
+## Mini Project
